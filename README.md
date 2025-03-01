@@ -1,1 +1,1 @@
-First, uploaded data on database using mysql then it's cleaned in excel after extracting data in csv file and later transformed in python. Lastly, analysed by creating real time dashboards visualising key metrics in power bi.
+First, uploaded data on database using mysql performed some queries then it's cleaned in excel after extracting data in csv file and later transformed in python. Lastly, analysed by creating real time dashboards visualising key metrics in power bi.
